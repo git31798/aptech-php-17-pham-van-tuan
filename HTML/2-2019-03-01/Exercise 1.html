@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .Personal-information {
+            text-align: center;
+        }
+
+        .container {
+            width: 70%;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container .info {
+            margin-bottom: 5px;
+            padding: 20px;
+            display: flex;
+            flex-direction: row;
+
+
+        }
+
+        .background-black {
+            margin-bottom: 5px;
+            padding: 20px;
+            background-color: black;
+        }
+
+        .container .info .About {
+            width: 60%;
+        }
+
+        .About > p {
+            color: white;
+        }
+
+        .container .photos {
+            width: 40%;
+
+        }
+
+        .container .photos > img {
+            padding: 5%;
+            width: 40%;
+            height: auto;
+            border-radius: 50%;
+        }
+        .container .flex {
+            display: flex;
+            justify-content: space-around;
+        }
+        .container .flex > img {
+            padding: 1%;
+            width: 15%;
+            height: 100%;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="Personal-information">
+        <h1>ABOUT</h1>
+    </div>
+    <div class="info background-black">
+        <div class="About">
+            <p><b>Full Name:</b> <i>Phạm Minh Tuấn</i></p>
+            <p><b>Birth Date:</b> <i>31/7/1998</i></p>
+            <p><b>Mobile Phones:</b> <i>0706167662</i></p>
+            <p><b>Email:</b> <i>tuanpham31798@gmail.com</i></p>
+            <p><b>Facebook:</b> <i>http://facebook.com/phamminhtuan.317</i></p>
+        </div>
+        <div class="photos">
+            <img src="images/123.jpg" alt=""/>
+
+        </div>
+    </div>
+    <div class="Personal-information">
+        <h1>EDUCATION</h1>
+    </div>
+    <div class="About background-black">
+        <p><b>PROFESSIONAL SKILLS:</b> <i>Programmer</i></p>
+        <p><b>COLLEGE:</b> <i>Duy Tan University, Danang, Vietnam</i></p>
+        <p><b>SKILLS:</b> <i>C++, Java, HTML, CSS, JavaScript</i></p>
+    </div>
+    <div class="Personal-information">
+        <h1>FAVORITE QUOTES</h1>
+    </div>
+    <div class="About background-black">
+        <p><i>Not all giving is rewarded, not all giving will need reparation....</i></p>
+    </div>
+    <div class="Personal-information">
+        <h1>PHOTOS</h1>
+    </div>
+    <div class="flex background-black">
+        <img src="images/2.jpg" alt=""/>
+        <img src="images/1.jpg" alt=""/>
+        <img src="images/456.jpg" alt=""/>
+        <img src="images/1234.png" alt=""/>
+    </div>
+</div>
+</body>
+</html>
