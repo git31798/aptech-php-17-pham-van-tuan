@@ -1,0 +1,15 @@
+.parent {
+	height: 500px;
+	background-color: black;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+
+}
+.children-1 {
+	width:100px;
+	height: 100px;
+	background-color: white;
+
+}
