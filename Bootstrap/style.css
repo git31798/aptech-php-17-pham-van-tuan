@@ -1,0 +1,48 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.row {
+    margin-bottom: 27px;
+    border-bottom: 1px solid;
+    width: 1000px;
+    height: 254px;
+}
+ div.container .row a{
+	text-decoration: none;
+}
+img.w-100 {
+    height: 227px;
+}
+
+a.tieude {
+    font-family: initial;
+    font-size: 30px;
+    color: #333;
+    font-weight: bold;
+}
+.Fa.d-flex.flex-row {
+    margin: 14px 0;
+}
+
+a.danhmuc {
+    color: #41455e;
+    font-family: initial;
+    font-size: 17px;
+    text-decoration: none;
+    font-weight: bold;
+    border: 1px solid gray;
+    padding: 4px 5px;
+}
+a.danhmuc:hover {
+    background-color: black;
+    color: white;
+}
+
+span {
+    font-size: 14px;
+    color: #777;
+    font-weight: normal;
+    margin-left: 11px;
+    margin-top: 6px;
+}
