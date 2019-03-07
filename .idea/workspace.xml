@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65dbca2e-baad-4066-b36e-a545e658d620" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/aptech-php-17-pham-van-tuan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aptech-php-17-pham-van-tuan.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/2-2019-03-01/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/2-2019-03-01/bai1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/kenh14.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/kenh14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,17 +19,43 @@
     <favorites_list name="aptech-php-17-pham-van-tuan" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML/2-2019-03-01/bai1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/HTML/2-2019-03-01/bai1.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="299">
+                  <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Bootstrap/kenh14.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="138">
+                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Bootstrap/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="1" selection-start-column="1" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,6 +77,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/HTML/2-2019-03-01/bai1.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/kenh14.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/style.css" />
       </list>
     </option>
   </component>
@@ -77,6 +105,11 @@
             <path>
               <item name="aptech-php-17-pham-van-tuan" type="b2602c69:ProjectViewProjectNode" />
               <item name="aptech-php-17-pham-van-tuan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aptech-php-17-pham-van-tuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aptech-php-17-pham-van-tuan" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aptech-php-17-pham-van-tuan" type="b2602c69:ProjectViewProjectNode" />
@@ -156,17 +189,18 @@
       <workItem from="1551534057403" duration="2496000" />
       <workItem from="1551536684127" duration="1925000" />
       <workItem from="1551606919475" duration="120000" />
+      <workItem from="1551964785306" duration="1824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13572000" />
+    <option name="totallyTimeSpent" value="15396000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49851632" visible="true" weight="0.20014094" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49851632" visible="true" weight="0.19940476" />
       <window_info id="Structure" order="1" sideWeight="0.5014837" side_tool="true" weight="0.20014094" />
       <window_info id="Favorites" order="2" sideWeight="0.5014837" side_tool="true" weight="0.20014094" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -194,8 +228,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HTML/2-2019-03-01/bai1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="299">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/kenh14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
