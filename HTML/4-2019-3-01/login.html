@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="bootstrap.css">
+    <style>
+        img{
+            width: 10%;
+        }
+        input#Remember {
+            margin: 20px 0;
+        }
+        span {
+            margin-top: 13px;
+            margin-left: 13px;
+        }
+        h1.text-center {
+            margin: 18px 0;
+        }
+
+    </style>
+</head>
+<body style="height: 100vh;">
+    <div class="container" style="height: 90%">
+        <div class="row d-flex flex-column h-100">
+            <div class="col-12 h-100 d-flex flex-column justify-content-center align-items-center">
+                <img src="https://getbootstrap.com/docs/4.3/assets/brand/bootstrap-solid.svg" alt="">
+                <h1 class="text-center">Please sign in</h1>
+                <form action="https://www.google.com/" class="d-flex flex-column">
+                    <label for="email"></label>
+                    <input class="rounded" type="email" id="email" required placeholder="Email address" style="width:300px; height: 40px">
+                    <label for="pass"></label>
+                    <input class="rounded" type="password" id="pass" required placeholder="Password" style="width: 300px ;height:40px">
+                    <div class="d-flex justify-content-center">
+                        <label for="Remember"></label>
+                        <input type="checkbox" id="Remember"> <span>Remember me</span>
+                    </div>
+                </form>
+                <button class="btn btn-primary btn-lg btn-block" style="width: 300px">Sign in</button>
+            </div>
+        </div>
+    </div>
+<div class="container text-center" style="height: 10%">
+    &copy;Copyright Pham Minh Tuan
+</div>
+</body>
+</html>
