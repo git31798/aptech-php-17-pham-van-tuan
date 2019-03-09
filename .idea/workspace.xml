@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65dbca2e-baad-4066-b36e-a545e658d620" name="Default Changelist" comment="" />
+    <list default="true" id="65dbca2e-baad-4066-b36e-a545e658d620" name="Default Changelist" comment="a">
+      <change beforePath="$PROJECT_DIR$/Bootstrap/Website 01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/kenh14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/2-2019-03-01/Exercise 1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/2-2019-03-01/Exercise 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/2-2019-03-01/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/2-2019-03-01/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/2-2019-03-01/images/123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/2-2019-03-01/images/1234.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/2-2019-03-01/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/2-2019-03-01/images/456.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/3-2019-03-01/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/3-2019-03-01/flex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/3-2019-03-01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/3-2019-03-01/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/4-2019-3-01/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/4-2019-3-01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/4-2019-3-01/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/4-2019-3-01/style.css" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,7 +36,20 @@
     <favorites_list name="aptech-php-17-pham-van-tuan" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BootstrapCDN/Website 01/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,6 +75,9 @@
         <option value="$PROJECT_DIR$/Bootstrap/style.css" />
         <option value="$PROJECT_DIR$/HTML/4-2019-3-01/bai2.html" />
         <option value="$PROJECT_DIR$/HTML/4-2019-3-01/login.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Website 01/index.html" />
+        <option value="$PROJECT_DIR$/BootstrapCDN/Website 02/index.html" />
+        <option value="$PROJECT_DIR$/BootstrapCDN/Website 01/index.html" />
       </list>
     </option>
   </component>
@@ -71,24 +108,13 @@
             <path>
               <item name="aptech-php-17-pham-van-tuan" type="b2602c69:ProjectViewProjectNode" />
               <item name="aptech-php-17-pham-van-tuan" type="462c0819:PsiDirectoryNode" />
-              <item name="Bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="BootstrapCDN" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aptech-php-17-pham-van-tuan" type="b2602c69:ProjectViewProjectNode" />
               <item name="aptech-php-17-pham-van-tuan" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aptech-php-17-pham-van-tuan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aptech-php-17-pham-van-tuan" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="2-2019-03-01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aptech-php-17-pham-van-tuan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aptech-php-17-pham-van-tuan" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="4-2019-3-01" type="462c0819:PsiDirectoryNode" />
+              <item name="BootstrapCDN" type="462c0819:PsiDirectoryNode" />
+              <item name="Website 01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,15 +189,24 @@
       <workItem from="1551536684127" duration="1925000" />
       <workItem from="1551606919475" duration="120000" />
       <workItem from="1551964785306" duration="6631000" />
-      <workItem from="1552129009250" duration="270000" />
+      <workItem from="1552129009250" duration="10620000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1552129447687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552129447687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20473000" />
+    <option name="totallyTimeSpent" value="30823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49851632" visible="true" weight="0.19940476" />
       <window_info id="Structure" order="1" sideWeight="0.5014837" side_tool="true" weight="0.20014094" />
@@ -184,7 +219,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32991454" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003524" side_tool="true" weight="0.39914772" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -196,7 +231,8 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Bootstrap/style.css">
@@ -242,6 +278,64 @@
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Website 01/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa5000.1612/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11385">
+          <caret line="153" column="28" selection-start-line="153" selection-start-column="28" selection-end-line="153" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapCDN/BootstrapCDN/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapCDN/BootstrapCDN/1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapCDN/BootstrapCDN/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3174" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapCDN/BootstrapCDN/wow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1518" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapCDN/Website 02/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapCDN/Website 01/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

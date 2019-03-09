@@ -1,0 +1,23 @@
+.container : khoi to nhat 
+.container-fluid: khoi to nhat full man hinh
+.row: dong chua cot
+.col: cot
+-----------------
+<class len quan den grid (chia man hinh thanh 12 phan)>
+.col-lg-10: trong man hinh large -> chiem 10/12 phan
+.col-md-3: trong man hinh medium -> chiem 3/12 phan
+.col-sm-5: trong man hinh small -> chiem 5/12 phan
+.col-xs-7: trong man hinh extra small -> chiem 7/12 phan
+
+.col-lg-push-3: Cot se day sang phai 3 phan
+.col-lg-pull-3: Cot se day sang trai 3 phan
+.col-lg-Offset-3: Cot se day hai ben, moi ben 3 phan
+	
+-----------------
+<class len quan den can chinh>
+.text-center = text-align:center -> canh giua
+.pull-left = float:left -> canh trai
+-----------------
+<class len quan menu>
+.navbar
+-----------------
