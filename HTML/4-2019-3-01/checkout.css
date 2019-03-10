@@ -1,0 +1,39 @@
+* {
+
+}
+body{
+	width: 80%;
+	margin: auto;
+}
+img {
+    width: 10%;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+form.d-flex {
+    margin: 20px 0px;
+}
+input.rounded {
+    margin-right: 30px;
+}
+input.rounded.ip {
+    margin-bottom: 24px;
+}
+.container {
+    margin-top: 46px;
+}
+span {
+    padding: 11px 15px;
+    background-color: #e9ecef;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.d-flex.flex-column.hat {
+    margin-right: 50px;
+}
+.col-8.set {
+    margin-top: -40px;
+}
