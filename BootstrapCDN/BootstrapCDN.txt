@@ -1,23 +1,32 @@
-.container : khoi to nhat 
-.container-fluid: khoi to nhat full man hinh
-.row: dong chua cot
-.col: cot
+.container : khối to nhất 
+.container-fluid: khối to nhất full màn hình
+.row: dòng chứa cột
+.col: cột
 -----------------
-<class len quan den grid (chia man hinh thanh 12 phan)>
-.col-lg-10: trong man hinh large -> chiem 10/12 phan
-.col-md-3: trong man hinh medium -> chiem 3/12 phan
-.col-sm-5: trong man hinh small -> chiem 5/12 phan
-.col-xs-7: trong man hinh extra small -> chiem 7/12 phan
+<class liên quan đến grid (chia màn hình thành 12 phần bằng nhau)>
+.col-sm-5: trong màn hình small -> chiếm 5/12 phần
+.col-md-3: trong màn hình medium -> chiếm 3/12 phần
+.col-lg-10: trong màn hình large -> chiếm 10/12 phần
+.col-xl-7: trong màn hình Extra Large -> chiếm 7/12 phần
 
-.col-lg-push-3: Cot se day sang phai 3 phan
-.col-lg-pull-3: Cot se day sang trai 3 phan
-.col-lg-Offset-3: Cot se day hai ben, moi ben 3 phan
+.col-lg-push-3: Cột sẽ đẩy sang phải 3 phần
+.col-lg-pull-3: Cột sẽ đẩy sang trái 3 phần
+.col-lg-Offset-3: Cột sẽ đâỷ sang hai bên, mỗi bên 3 phần
 	
 -----------------
-<class len quan den can chinh>
-.text-center = text-align:center -> canh giua
-.pull-left = float:left -> canh trai
+<class liên quan đến căn chỉnh>
+.text-center = text-align:center -> canh giữa
+.pull-left = float:left -> canh trái
 -----------------
-<class len quan menu>
-.navbar
+<class liên quan menu>
+.navbar: bao bọc toàn bộ header (gồm thanh menu va logo....)
+.navbar-nav: bao bọc thanh menu
+.nav-item: có trong thẻ li
+.nav-link: có trong the a
+
+.navbar-expand:cùng hành với .navbar, Nếu bạn không sử dụng lớp .navbar-expand-xl|lg|md|sm thanh công cụ sẽ luôn luôn thẳng đứng với mọi kích thước màn hình.
+.navbar-dark: Sử dụng lớp này nếu bạn thông báo với Bootstrap rằng thanh công cụ của bạn đang sử dụng mầu nền tối mầu. Bootstrap sẽ tự động sét đặt mầu chữ cho tất cả các Nav-item thành mầu trắng.
+.active: Sử dụng lớp này nếu bạn muốn Bootstrap làm nổi bật (highlight) một Nav-item nào đó. Giống như nó đang được lựa chọn (hoặc đang được kích hoạt).
+.disabled: Sử dụng lớp này nếu bạn muốn Bootstrap vô hiệu hóa (disable) một Link nào đó, người dùng sẽ không thể nhấn vào Link này.
+navbar-brand: Một trong các thành phần không thể thiếu của một Navbar là một Brand (Nhãn hiệu), nó là nơi bạn đặt một Logo hoặc một cái tên liên quan trực tiếp tới website của bạn.
 -----------------
