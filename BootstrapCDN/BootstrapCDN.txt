@@ -1,4 +1,4 @@
-.container : khối to nhất 
+﻿.container : khối to nhất 
 .container-fluid: khối to nhất full màn hình
 .row: dòng chứa cột
 .col: cột
@@ -30,3 +30,10 @@
 .disabled: Sử dụng lớp này nếu bạn muốn Bootstrap vô hiệu hóa (disable) một Link nào đó, người dùng sẽ không thể nhấn vào Link này.
 navbar-brand: Một trong các thành phần không thể thiếu của một Navbar là một Brand (Nhãn hiệu), nó là nơi bạn đặt một Logo hoặc một cái tên liên quan trực tiếp tới website của bạn.
 -----------------
+<class liên quan đến button>
+.btn
+.btn-outline-primary
+-----------------
+<class liên quan đến img>
+.img-thumbnail: bo đường viên
+.img-fluid: có thuộc tính width: 100%

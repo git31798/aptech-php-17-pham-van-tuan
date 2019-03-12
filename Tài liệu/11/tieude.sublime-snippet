@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+	 <h1 class="text-center">
+    	SNIPPET  	<small>Cách tạo snippet cực kỳ đơn giản  </small>
+    </h1>
+    <hr>
+
+]]></content>
+	<tabTrigger>tieude</tabTrigger>
+	<scope>text.html</scope>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

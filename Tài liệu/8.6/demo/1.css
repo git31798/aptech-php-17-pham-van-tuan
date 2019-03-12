@@ -1,0 +1,119 @@
+*{margin:0;padding:0; }
+
+.phongto {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #18BB9C;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+    opacity: 0;
+    transition: all 0.4s;
+    cursor: pointer;
+}
+
+.phongto i {
+    font-size: 66px;
+    color: white;
+    padding-top: 98px;
+}
+
+.sanpham {
+    position: relative;
+    margin-bottom: 21px;
+}
+
+.sanpham:hover .phongto {
+    opacity: 1;
+}
+
+.portfolio h2 {
+    font-size: 44px;
+    color: #2d3e50;
+}
+
+.portfolio {
+    padding-top: 110px;
+}
+
+.nenxanh p {
+    font-size: 18px;
+    color: white;
+}
+
+.ngoisao i {
+    width: 56px;
+    height: 40px;
+    background: #18BB9C;
+    position: relative;
+    top: -25px;
+    line-height: 40px;
+    font-size: 33px;
+    color: white;
+}
+
+.portfolio .ngoisao i {
+    background: white;
+    color: #2D3E50;
+}
+
+.ngoisao {
+    width: 23%;
+    margin: auto;
+    border-top: 5px solid white;
+    margin-top: 39px;
+}
+
+.portfolio .ngoisao {
+    border-color: black;
+}
+
+.nenxanh h1 {
+    font-size: 71px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.nenxanh {
+    padding: 90px 0 113px 0;
+    background: #18bb9c;
+}
+
+.navbar-default .navbar-brand {
+    padding-top: 44px;
+    font-size: 27px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #18bb9c;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #18bb9c;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul.nav.navbar-nav.navbar-right {
+    padding-top: 30px;
+}
+
+nav.navbar.navbar-default {
+    height: 111px;
+    background: #2d3e50;
+    margin-bottom: 0;
+}
+ 
+
+ 

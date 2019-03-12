@@ -1,0 +1,46 @@
+*{margin:0;padding:0; }
+
+.khoi3cot h3 {
+    padding: 86px;
+    font-size: 44px;
+}
+
+.xanh h3 {
+    margin-top: 84px;
+    margin-bottom: 90px;
+}
+
+.xanh {
+    background: #1abc9c;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.xam2 {
+    background: black;
+    color: white;
+    padding: 85px;
+    font-size: 20px;
+    margin-top: 88px;
+}
+
+.xam {
+    background: gray;
+    color: white;
+    padding: 103px;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #1abc9c;
+}
+
+nav.navbar.navbar-default {
+    height: 80px;
+    padding-top: 14px;
+    margin-bottom: 0px;
+}
+ 
+
+ 
