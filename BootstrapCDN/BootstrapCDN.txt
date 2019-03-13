@@ -36,7 +36,10 @@ navbar-brand: Một trong các thành phần không thể thiếu của một Na
 -----------------
 <class liên quan đến img>
 .thumbnail: bo đường viên
+.img-responsive: class của img
 --------------------
 <class side ảnh>
 .carousel
-
+-------------------
+<class icon>
+.glyphicon
