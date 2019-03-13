@@ -35,5 +35,8 @@ navbar-brand: Một trong các thành phần không thể thiếu của một Na
 .btn-outline-primary
 -----------------
 <class liên quan đến img>
-.img-thumbnail: bo đường viên
-.img-fluid: có thuộc tính width: 100%
+.thumbnail: bo đường viên
+--------------------
+<class side ảnh>
+.carousel
+
