@@ -132,7 +132,7 @@ p {
     height: 100vh;
 }
 
-.sec2 h2 {
+.sec2 .contentBox h2 {
     font-weight: 800;
     color: #fff;
     text-transform: uppercase;
@@ -209,7 +209,17 @@ p {
     background-size: cover;
     min-height: 100vh;
 }
+.contact .headerText h2 {
+    font-weight: 800;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 3.5rem;
 
+}
+.contact .headerText p {
+    color: #fff;
+    font-size: 1.3rem;
+}
 .contact form {
     position: relative;
     z-index: 1000;
