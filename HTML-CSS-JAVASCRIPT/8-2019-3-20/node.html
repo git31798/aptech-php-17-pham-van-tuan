@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<div id="div1">
+		<p id="p1">hihi</p>
+		<p id="p2">huhu</p>
+	</div>
+	<button onclick="add();">Click me!</button>
+	<script type="text/javascript">
+		function add() {
+			var para = document.createElement("h1"); // tao the h1
+			var node = document.createTextNode("Hello World"); // tao noi dung Hello World
+			para.appendChild(node); // the noi dung vao giua the h1
+			var element = document.getElementById('div1').appendChild(para); // them the h1 vao giua the div
+
+		}
+	</script>
+</body>
+</html>

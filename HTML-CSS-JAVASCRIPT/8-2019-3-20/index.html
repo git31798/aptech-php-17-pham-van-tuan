@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style type="text/css">
+		table{
+            border-collapse: collapse;
+        }
+        th,td{
+        	padding: 30px
+        }
+	</style>
+</head>
+<body>
+	<table border="1">
+		<thead>
+			<tr>
+				<th>#</th>
+				<th>Name</th>
+				<th>Age</th>
+			</tr>
+		</thead>
+		<tbody id="table-body">
+			<tr>
+				<th>1</th>
+				<td>A</td>
+				<td>4</td>
+			</tr>
+		</tbody>
+	</table>
+	<script type="text/javascript">
+		function add() {
+			var tableBody=document.getElementById('table-body');
+			for(var i=A;i<10;i++){
+				tableBody.innerHTML=tableBody.innerHTML+'<tr><th>1</th><td>A</td><td>4</td></tr>';
+			}
+		};
+		add();
+	</script>
+</body>
+</html>
